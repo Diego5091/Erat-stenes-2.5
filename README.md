@@ -3,7 +3,7 @@
 
 ##  Objective
 
-To replicate and modernize Eratosthenes' historical experiment by measuring the length of a shadow cast by a vertical rod in different parts of the world at the same solar event, and collect high-precision data to evaluate Earth's curvature.
+To scientifically test and evaluate the shape of the Earth by measuring solar shadows in different geographic locations. This experiment aims to either validate the spherical Earth model or challenge it through direct observation, using modern tools to replicate Eratosthenes' method and examine flat Earth claims with measurable data.
 
 
 
