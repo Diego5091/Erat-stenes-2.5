@@ -22,7 +22,7 @@ Each participant must have:
   - Temperature (°C)
   - Humidity (%)
   - Atmospheric pressure (hPa)
-- **Clock synchronized to UTC**
+- **Clock synchronized to UTC UNIVERSAL **
 - **Camera or phone** to take pictures of the setup and the shadow
 
 ---
@@ -31,10 +31,11 @@ Each participant must have:
 
 To make accurate measurements and calculations:
 
--  **GPS Coordinates** → [GPS Coordinates App (Android/iOS)]  
--  **Solar Noon Time** → [SunCalc.net](https://www.suncalc.org/) or [TimeAndDate.com](https://www.timeanddate.com/sun/)
--  **Level Tool** → [Bubble Level App (Android/iOS)]
+-  **GPS Coordinates** → [GPS Coordinates App (Android/iOS) Google.maps]  
+-  **Solar Noon Time** → [SunCalc.net](https://www.suncalc.org/)
 -  **Weather App** → AccuWeather, Weather.com, or your local meteorological source
+-  **bubble level App** → [AccuWeather, Weather.com, or your local meteorological source apple](https://apps.apple.com/us/app/measure/id1383426740) ,
+-  **bubble level App documentation** → ( https://support.apple.com/en-us/102468) 
 
 
 
@@ -51,7 +52,7 @@ To make accurate measurements and calculations:
    - **Altitude (m above sea level)**
    - **Rod length (in cm)**
    - **Shadow length (in cm)**
-   - **Shadow direction** (azimuth, using compass app)
+   - **Shadow direction** (azimuth, using compass app) ( what is azimuth  = https://www.youtube.com/watch?v=Dd9lrKUKHW0)
    - **Temperature, Humidity, and Pressure**
 6. **Take pictures** of your setup and the shadow
 7. Enter your data in the shared CSV file:  
